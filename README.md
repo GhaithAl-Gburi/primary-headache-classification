@@ -103,7 +103,7 @@ This repository is released under the **GNU Affero General Public License v3.
 If you use or adapt this code in your own research, please cite the repository as follows (replace the year with the year accessed):
 
 ```
-Ghaith Al‑Gburi. (2026). GhaithAl‑Gburi/primary‑headache‑classification: Automated ICHD‑3 beta diagnosis and analysis of primary headaches (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Ghaith Al‑Gburi. (2026). GhaithAl‑Gburi/primary‑headache‑classification: Automated ICHD‑3 beta diagnosis and analysis of primary headaches (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18625708
 ```
 
 ---
