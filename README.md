@@ -1,5 +1,7 @@
 # README — Automated Classification of Primary Headache Disorders (Python notebook)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18625708.svg)](https://doi.org/10.5281/zenodo.18625708)
+
 **Repository author:** Ghaith Al‑Gburi  
 
 **Purpose:** Primary headache disorders such as migraine and tension‑type headache are among the most common neurological conditions, yet accurate diagnosis in clinical practice remains challenging.  To improve case identification and understand misclassification, this repository provides a rule‑based algorithm derived from the **International Classification of Headache Disorders (ICHD‑3 beta)** and applies it to survey data collected in Iraqi healthcare settings. This repository contains `classify_headache.ipynb` — a Python notebook that reads survey responses coded as ICHD‑3 beta items, implements a set of functions to assign **automatic diagnoses** of migraine, tension‑type headache, trigeminal autonomic cephalalgias and related conditions, and compares these assignments against the specialist‑confirmed codes in the data set. 
